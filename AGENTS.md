@@ -40,7 +40,7 @@ Leer [el índice y sus estados](knowledge-base/README.md) y los documentos perti
 | [09 — Decisiones y supuestos](knowledge-base/09_decisiones_y_supuestos.md) | Distinguir decisiones aprobadas, propuestas y supuestos. |
 | [10 — Preguntas abiertas](knowledge-base/10_preguntas_abiertas.md) | Resolver pendientes del comportamiento afectado antes de implementarlo. |
 
-01–07 están aprobados; 08–10 se redactaron en bloque autorizado y conservan propuestas y preguntas pendientes. Las decisiones explícitas posteriores del usuario precisan los documentos históricos. Consultar también [Discovery](discovery/discovery.md), [entrega y stack aprobados](discovery/propuesta-tecnica-kb.md) y [política visual vigente](design-system/README.md).
+01–07 están aprobados; 08–10 se redactaron en bloque autorizado y conservan propuestas y preguntas pendientes. Las decisiones explícitas posteriores del usuario precisan los documentos históricos. Consultar también [Discovery](docs/discovery/discovery.md), [entrega y stack aprobados](docs/discovery/propuesta-tecnica-kb.md) y [política visual vigente](design-system/README.md).
 
 Para C-01 se revisan AT-01, AT-02, AT-08 y AT-10; AP-03 fija un calendario real. Las reglas temporales, pacientes repetidos, conflictos, enlaces y correo se resuelven antes de sus cambios afectados, según `CHANGES.md`. PB-12 y AT-09 condicionan el uso de datos reales. AT-11 quedó resuelto por política visual `off`.
 
